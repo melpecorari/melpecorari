@@ -51,7 +51,7 @@
 - Ter melhor desempenho no inglês
 ---
 ### 👩🏻‍💻 Competências Técnicas
-- Front-end: HTML5, JavaScript, 
+- Front-end: HTML, JavaScript, 
 - Back-end: Node.js, python
 - Ferramentas: Git, Trello
 ---
