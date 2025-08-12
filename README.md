@@ -25,7 +25,7 @@
 ### 🌎 Idiomas:
 - **Portugues:** Nativo
 - **Inglês:** Básico/Intermediário (A2/B1)
-- **Espanhol:** Básico (A1)
+- **Espanhol:** Básico (A2)
 ---
 ### 🏆Conquistas
 - Equipe de robótica ganhadora do premio **Desempenho do robo** no Regional em Epitácio(2022)
