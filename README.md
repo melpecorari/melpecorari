@@ -31,7 +31,7 @@
 - Equipe de robótica ganhadora do premio **Desempenho do robo** no Regional em Epitácio(2022)
 - Equipe conquistou a **terceira melhor colocação geral** no campeonato Regional, conquistando a vaga para o Nacional(2023)
 ![alternativo](https://www.prudentenews.com.br/img/noticias/6656.jpg)
-- Equipe de robótica conquista o prmio **Aliança Vencedora** no campeonato nacional em Brasilia (2024)
+- Equipe de robótica conquista o prêmio **Aliança Vencedora** no campeonato nacional em Brasilia (2024)
 - Técnico da Equipe conquista o prêmio de **segundo melhor técnico do Brasil** no Nacional (2024)
 - Campeãs da 3° **Feira de Ciências e Tecnologia do Oeste Paulista** em 2024
 - Medalha de Bronze na **Olimpíada Nacional de Eficiência Energética (ONEE)** em 2022
@@ -41,11 +41,11 @@
 ### 🎨 Hobbies  
 - Fotografia 
 - Praticar Esportes 
-- Viajar e conhecer novas culturas  
+- Pintar
 - Cozinhar
 ---
 ### 🙋🏽‍♀️ Metas de curto prazo (1ano)
-- Finalizar o curso tecnico de Desenvolvimento de Sistemas
+- Finalizar o curso tecnico de Desenvolvimento de Sistemas, e conquistar mais certificados na área
 - Ter melhor desempenho no inglês
 ---
 ### 👩🏻‍💻 Competências Técnicas
