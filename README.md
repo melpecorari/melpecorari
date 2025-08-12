@@ -7,7 +7,7 @@
 -  **E-mail:** melin365@gmail.com
 -  **GitHub:** https://github.com/melpecorari
 ---
-### 👩🏻‍🎓 Formação tecnica
+### 👩🏻‍🎓 Formação técnica
 - Curso tecnico em **Desenvolvimento de Sistemas na escola Senai Santo Paschoal Crepaldi** (2025 - em andamento)
 ---
 ### ✍🏻Cursos Complementares
