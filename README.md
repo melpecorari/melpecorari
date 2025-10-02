@@ -61,7 +61,7 @@
 - Organização e atenção aos detalhes
 - Boas habilidades de comunicação
 ---
-### Projetos
+### 🗂 Projetos 
 - PetConecta: https://drive.google.com/file/d/1YMJxoHbu2QKqxS5G_6m3lDMCnJodTOqc/view?usp=drive_link
   
 - EcoSapiens: https://drive.google.com/file/d/1tvBhFNso5dHd6jQG2skLmd5HPTkpUw86/view?usp=drive_link
