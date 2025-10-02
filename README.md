@@ -1,7 +1,7 @@
  # Perfil Profissional – Melina Pecorari Pontes
 ## 👤 Dados Pessoais
 - **Nome:** Melina Pecorari Pontes
--  **Idade:** 16 anos
+-  **Idade:** 17 anos
 -  **Cidade:** Álvares Machado-SP
 -  **Telefone:** (98) 7897-6543
 -  **E-mail:** melin365@gmail.com
